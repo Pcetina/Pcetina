@@ -1,5 +1,5 @@
-<h1><B><i>👋 Hola a todos, bienvenidos a mi GitHub 👋</B></i></h1>
-<ul>
+<h1><B><i>👋 Hola a todos, bienvenidos a mi GitHub 👋</B></i></h1> <img src="https://j.gifs.com/ywr17Y.gif" align="right" alt="Gif"  width="300"  height="200">
+<ul> 
   
 <li>👩‍🦱 Mi nombre es Paula Alejandra Cetina Rodriguez y tengo 16 años</li>
   
